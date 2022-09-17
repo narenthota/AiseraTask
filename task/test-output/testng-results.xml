@@ -2,70 +2,70 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-16T02:11:31 IST" name=" My Test Suite" finished-at="2022-09-16T02:11:58 IST" duration-ms="26863">
+  <suite started-at="2022-09-17T09:31:52 IST" name=" My Test Suite" finished-at="2022-09-17T09:32:11 IST" duration-ms="19460">
     <groups>
     </groups>
-    <test started-at="2022-09-16T02:11:31 IST" name="My Test" finished-at="2022-09-16T02:11:58 IST" duration-ms="26863">
+    <test started-at="2022-09-17T09:31:52 IST" name="My Test" finished-at="2022-09-17T09:32:11 IST" duration-ms="19460">
       <class name="tests.ToptalTests">
-        <test-method is-config="true" signature="intialize()[pri:0, instance:tests.ToptalTests@e15b7e8]" started-at="2022-09-16T02:11:31 IST" name="intialize" finished-at="2022-09-16T02:11:33 IST" duration-ms="2534" status="PASS">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:tests.ToptalTests@e15b7e8]" started-at="2022-09-17T09:31:52 IST" name="intialize" finished-at="2022-09-17T09:31:54 IST" duration-ms="1921" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intialize -->
-        <test-method signature="verifying_presence_of_ApplyAsAFreeLancer_Links()[pri:1, instance:tests.ToptalTests@e15b7e8]" started-at="2022-09-16T02:11:33 IST" name="verifying_presence_of_ApplyAsAFreeLancer_Links" finished-at="2022-09-16T02:11:35 IST" duration-ms="1828" status="PASS">
+        <test-method signature="verifying_presence_of_ApplyAsAFreeLancer_Links()[pri:1, instance:tests.ToptalTests@e15b7e8]" started-at="2022-09-17T09:31:54 IST" name="verifying_presence_of_ApplyAsAFreeLancer_Links" finished-at="2022-09-17T09:31:55 IST" duration-ms="1521" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifying_presence_of_ApplyAsAFreeLancer_Links -->
-        <test-method is-config="true" signature="closure()[pri:0, instance:tests.ToptalTests@e15b7e8]" started-at="2022-09-16T02:11:35 IST" name="closure" finished-at="2022-09-16T02:11:35 IST" duration-ms="246" status="PASS">
+        <test-method is-config="true" signature="closure()[pri:0, instance:tests.ToptalTests@e15b7e8]" started-at="2022-09-17T09:31:55 IST" name="closure" finished-at="2022-09-17T09:31:55 IST" duration-ms="178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closure -->
-        <test-method is-config="true" signature="intialize()[pri:0, instance:tests.ToptalTests@e15b7e8]" started-at="2022-09-16T02:11:35 IST" name="intialize" finished-at="2022-09-16T02:11:36 IST" duration-ms="1094" status="PASS">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:tests.ToptalTests@e15b7e8]" started-at="2022-09-17T09:31:55 IST" name="intialize" finished-at="2022-09-17T09:31:56 IST" duration-ms="715" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intialize -->
-        <test-method signature="ApplyToToptal()[pri:2, instance:tests.ToptalTests@e15b7e8]" started-at="2022-09-16T02:11:36 IST" name="ApplyToToptal" finished-at="2022-09-16T02:11:43 IST" duration-ms="7012" status="PASS">
+        <test-method signature="ApplyToToptal()[pri:2, instance:tests.ToptalTests@e15b7e8]" started-at="2022-09-17T09:31:56 IST" name="ApplyToToptal" finished-at="2022-09-17T09:32:00 IST" duration-ms="3933" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ApplyToToptal -->
-        <test-method is-config="true" signature="closure()[pri:0, instance:tests.ToptalTests@e15b7e8]" started-at="2022-09-16T02:11:43 IST" name="closure" finished-at="2022-09-16T02:11:44 IST" duration-ms="251" status="PASS">
+        <test-method is-config="true" signature="closure()[pri:0, instance:tests.ToptalTests@e15b7e8]" started-at="2022-09-17T09:32:00 IST" name="closure" finished-at="2022-09-17T09:32:00 IST" duration-ms="127" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closure -->
       </class> <!-- tests.ToptalTests -->
       <class name="tests.GoogleTests">
-        <test-method is-config="true" signature="intialize()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-16T02:11:44 IST" name="intialize" finished-at="2022-09-16T02:11:45 IST" duration-ms="1273" status="PASS">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-17T09:32:00 IST" name="intialize" finished-at="2022-09-17T09:32:01 IST" duration-ms="735" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intialize -->
-        <test-method signature="verifying_Navigation_to_About_by_Url()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-16T02:11:45 IST" name="verifying_Navigation_to_About_by_Url" finished-at="2022-09-16T02:11:49 IST" duration-ms="4264" status="PASS">
+        <test-method signature="verifying_Navigation_to_About_by_Url()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-17T09:32:01 IST" name="verifying_Navigation_to_About_by_Url" finished-at="2022-09-17T09:32:04 IST" duration-ms="3397" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifying_Navigation_to_About_by_Url -->
-        <test-method is-config="true" signature="closure()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-16T02:11:49 IST" name="closure" finished-at="2022-09-16T02:11:49 IST" duration-ms="233" status="PASS">
+        <test-method is-config="true" signature="closure()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-17T09:32:04 IST" name="closure" finished-at="2022-09-17T09:32:05 IST" duration-ms="184" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closure -->
-        <test-method is-config="true" signature="intialize()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-16T02:11:49 IST" name="intialize" finished-at="2022-09-16T02:11:51 IST" duration-ms="1327" status="PASS">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-17T09:32:05 IST" name="intialize" finished-at="2022-09-17T09:32:05 IST" duration-ms="728" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intialize -->
-        <test-method signature="verifying_Navigation_to_Business_by_Url()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-16T02:11:51 IST" name="verifying_Navigation_to_Business_by_Url" finished-at="2022-09-16T02:11:54 IST" duration-ms="3503" status="PASS">
+        <test-method signature="verifying_Navigation_to_Business_by_Url()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-17T09:32:05 IST" name="verifying_Navigation_to_Business_by_Url" finished-at="2022-09-17T09:32:09 IST" duration-ms="3433" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifying_Navigation_to_Business_by_Url -->
-        <test-method is-config="true" signature="closure()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-16T02:11:54 IST" name="closure" finished-at="2022-09-16T02:11:55 IST" duration-ms="180" status="PASS">
+        <test-method is-config="true" signature="closure()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-17T09:32:09 IST" name="closure" finished-at="2022-09-17T09:32:09 IST" duration-ms="182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closure -->
-        <test-method is-config="true" signature="intialize()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-16T02:11:55 IST" name="intialize" finished-at="2022-09-16T02:11:56 IST" duration-ms="1382" status="PASS">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-17T09:32:09 IST" name="intialize" finished-at="2022-09-17T09:32:10 IST" duration-ms="699" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intialize -->
-        <test-method signature="verifying_presence_of_About_and_Business_Links()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-16T02:11:56 IST" name="verifying_presence_of_About_and_Business_Links" finished-at="2022-09-16T02:11:57 IST" duration-ms="1421" status="PASS">
+        <test-method signature="verifying_presence_of_About_and_Business_Links()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-17T09:32:10 IST" name="verifying_presence_of_About_and_Business_Links" finished-at="2022-09-17T09:32:11 IST" duration-ms="1548" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifying_presence_of_About_and_Business_Links -->
-        <test-method is-config="true" signature="closure()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-16T02:11:57 IST" name="closure" finished-at="2022-09-16T02:11:58 IST" duration-ms="236" status="PASS">
+        <test-method is-config="true" signature="closure()[pri:0, instance:tests.GoogleTests@6bd61f98]" started-at="2022-09-17T09:32:11 IST" name="closure" finished-at="2022-09-17T09:32:11 IST" duration-ms="126" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closure -->

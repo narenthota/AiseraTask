@@ -83,7 +83,7 @@ public class BasePage {
         options.addArguments("--disable-notifications");
         options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         //update to relative path instead of absolute path
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Naren_Thota\\eclipse-workspace\\task\\resources\\chromedriver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "./resources/chromedriver/chromedriver.exe");
         driver=new ChromeDriver();
         driver.manage().window().maximize();
         ClearBrowserCache();
